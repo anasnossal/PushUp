@@ -11,6 +11,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     private void testUpload (){
+
         int i = 1+1;
+        int ii = 2+2;
+        int iii = i + ii;
     }
 }
